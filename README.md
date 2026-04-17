@@ -27,5 +27,5 @@ Deep Learning project for melanoma classification using ISIC datasets and ResNet
 ## How to Run
 
 1. Open the `sourceCode.ipynb` notebook.
-2. Select a Python kernel / virtual environment.
+2. Select a Python kernel / virtual environment (Note: Python 3.14.0 was used)
 3. Run the code (library installations are contained in the notebook).
